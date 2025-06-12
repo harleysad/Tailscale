@@ -1,10 +1,10 @@
-# Tailsacle
+# Tailscale
 
 This project is based on the examples from [tailscale-dev/docker-guide-code-examples](https://github.com/tailscale-dev/docker-guide-code-examples) and utilizes [Tailscale](https://tailscale.com/) to create a secure Tailscale server for your Docker network.
 
 ## Overview
 
-Tailsacle provides a secure solution for accessing Docker network containers remotely without exposing the server or opening multiple ports. It can be used as a security layer to access your Docker containers from anywhere via Tailscale VPN.
+Tailscale provides a secure solution for accessing Docker network containers remotely without exposing the server or opening multiple ports. It can be used as a security layer to access your Docker containers from anywhere via Tailscale VPN.
 
 ## Environment Variables
 
