@@ -20,4 +20,5 @@ services:
   nginx-authkey-test:
     image: nginx
     network_mode: service:ts-authkey-test
-       
+    ports:
+      - "80:80"
